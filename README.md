@@ -1,1 +1,3 @@
-# dynamic_interest_point_generation
+# Dynamic interest point generation
+
+TODO : Description of the project
